@@ -1,0 +1,5 @@
+This will help me to make some folder and copy paste necessary my own files if i want to do.
+
+Make folder "~/.apps_and_softwares", "~/RanaUniverse", "workspaces"
+
+Copy Paste Some Images Logo into "~/Pictures"
