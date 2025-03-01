@@ -1,0 +1,7 @@
+
+# This below i will usaually make for release. below file need to keep in local for release not to keep in the repo, below line if i change i need to change the line also.
+
+# zip -r ubuntu_settings_24.04_v1.0.0.0.zip . -x ".git*"
+
+ubuntu_settings_*.zip
+
