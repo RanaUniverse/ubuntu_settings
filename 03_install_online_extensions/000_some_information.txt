@@ -1,0 +1,15 @@
+This help me to get the gnome extensions easily just by copy the downloded folder including the files and then transfer in another laptop.
+
+Here when i install a extensions in the gnome extension manger app this just got saved inside the below folder: 
+
+	~/.local/share/gnome-shell/extensions/package_folder_name
+
+for each extensions i download it got saved in this extensions directory with different name.
+
+This only include the file not the settings of this.
+
+
+The settings got saved in somewhere to get this i can use dconf dump / > file.txt, from where i can see the settings individually or i need to export in each of the extesnion page in the extension manager application.
+
+
+
