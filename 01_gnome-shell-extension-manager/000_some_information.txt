@@ -1,0 +1,7 @@
+This two package help me to install the Extension Manager app in my laptop, for this i used a command to first get the link of the packages and its necessary packages, and then use the packages_list.txt to download the .deb files.
+
+
+
+    sudo apt-get install --print-uris --yes gnome-shell-extension-manager | grep ^\' | cut -d\' -f2 > z_packages_list.txt
+
+    wget -i z_packages_list_url.txt

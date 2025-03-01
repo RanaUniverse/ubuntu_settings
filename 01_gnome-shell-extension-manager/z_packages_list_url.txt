@@ -1,0 +1,2 @@
+http://archive.ubuntu.com/ubuntu/pool/universe/t/text-engine/libtext-engine-0.1-0_0.1.1-4build2_amd64.deb
+http://archive.ubuntu.com/ubuntu/pool/universe/g/gnome-shell-extension-manager/gnome-shell-extension-manager_0.5.0-1build1_amd64.deb

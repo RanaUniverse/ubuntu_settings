@@ -1,0 +1,10 @@
+This packages will help me to get some extra extensions which are useful, in the extension Manager App.
+
+This will help to have some more special system extensions which is very needful.
+So this will help me in very very places.
+
+
+
+    sudo apt-get install --print-uris --yes gnome-shell-extensions | grep ^\' | cut -d\' -f2 > z_packages_list.txt
+
+    wget -i z_packages_list_url.txt

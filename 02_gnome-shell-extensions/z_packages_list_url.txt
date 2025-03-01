@@ -1,0 +1,7 @@
+http://archive.ubuntu.com/ubuntu/pool/main/g/gnome-shell/gnome-shell_46.0-0ubuntu6%7e24.04.6_amd64.deb
+http://archive.ubuntu.com/ubuntu/pool/main/g/gnome-shell/gnome-shell-common_46.0-0ubuntu6%7e24.04.6_all.deb
+http://archive.ubuntu.com/ubuntu/pool/universe/g/gnome-browser-connector/gnome-browser-connector_42.1-4_all.deb
+http://archive.ubuntu.com/ubuntu/pool/universe/g/gnome-browser-connector/chrome-gnome-shell_42.1-4_all.deb
+http://archive.ubuntu.com/ubuntu/pool/main/libg/libgtop2/gir1.2-gtop-2.0_2.41.3-1build4_amd64.deb
+http://archive.ubuntu.com/ubuntu/pool/universe/g/gnome-shell/gnome-shell-extension-prefs_46.0-0ubuntu6%7e24.04.6_amd64.deb
+http://archive.ubuntu.com/ubuntu/pool/universe/g/gnome-shell-extensions/gnome-shell-extensions_46.1-2_all.deb
