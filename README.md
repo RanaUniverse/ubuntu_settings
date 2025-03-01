@@ -1,6 +1,6 @@
 # Ubuntu Desktop Settings 🖥️
 
-
+This Project is created, implimented & developing by [**Rana Universe 🍌🍌🍌**](https://github.com/RanaUniverse). I created this to enhance Ubuntu Linux's user experience.
 
 
 ## This Project is for change the Desktop Interface and Settings for Ubuntu Linux Distributions. 🎨
