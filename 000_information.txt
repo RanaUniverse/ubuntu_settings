@@ -1,0 +1,53 @@
+This is my favourite os design for Ubuntu, which looks very good for me and easily managed to run my os and apps. In Ubuntu by default the minimize, maximize and close apps button are placed not at complete upper so using mouse is little hard.
+
+This full customization is very easy for me, so i make this offline process the online process to download things and then customize this more genrally is available.
+
+
+All Things i will keep in the installation script which i just need to run.
+
+    ./installation_script.sh
+
+
+
+
+This is for some information on how i did is, 
+01 is allow to install the extension manager app where i need to download the extensions and install online.
+
+
+Part 0:
+
+	i did make some my own directories and files which i need.
+
+
+Part 1:
+
+	sudo apt install gnome-shell-extension-manager
+
+
+Part 2:
+
+	sudo apt install gnome-shell-extensions
+
+
+Part 3:
+	
+	Here first i need to confirm that ~/.local/share/gnome-shell/extensions is already exists.
+	
+	I need to install the online extesnions so for this i have 03_install_online_extensions to paste those inside ~/.local/share/gnome-shell/extensions.
+
+
+Part 4:
+
+	Some images has been transfered and then it will use dconf load to changes all settings.
+
+
+
+*** Information ***
+
+i used ```dconf dump / > 1.bkup``` to get the bkup file which i do to backup all my settings and so on. 
+
+
+To know some information about dconf and how to use it properly use this,
+
+https://pimylifeup.com/ubuntu-reset-settings/
+https://askubuntu.com/questions/22313/what-is-dconf-what-is-its-function-and-how-do-i-use-it
