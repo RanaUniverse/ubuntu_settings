@@ -1,0 +1,43 @@
+The Two image file need to be kept in the ~/.local/share/backgrounds folder, and in the dconf i need to use this, 
+
+
+All the things are kept in the 1.bkup file which i got from (dcon dump / > 1.bkup)
+
+
+
+To Manually Change The Picture Size i need to run like this, 
+
+gsettings set org.gnome.desktop.background picture-options 'scaled'
+gsettings set org.gnome.desktop.background picture-options centered
+
+
+(scaled value is good with show full image in the screen)
+
+Some Other Values are: 
+
+(gsettings range org.gnome.desktop.background picture-options)
+
+'none'
+'wallpaper'
+'centered'
+'scaled'
+'stretched'
+'zoom'
+'spanned'
+
+
+Other Options: 
+
+To get the value use:
+gsettings get org.gnome.desktop.background picture-options
+
+
+
+
+[org/gnome/desktop/background]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///home/rana-universe/.local/share/backgrounds/white.png'
+picture-uri-dark='file:///home/rana-universe/.local/share/backgrounds/black.png'
+primary-color='#000000000000'
+secondary-color='#000000000000'
