@@ -47,8 +47,8 @@ This version i will make for support on **Ubuntu 24.04 LTS** with constantly imp
 
 
 ### 🔹 New Additions:  
-- [Eye On Cursor - Version: 99](https://extensions.gnome.org/extension/7036/eye-on-cursor/) – Highlights the cursor for better visibility.  
-- [Hide Items - Version: 99](https://extensions.gnome.org/extension/6771/hide-items/) – Allows you to hide desktop items for a cleaner look.  
+- [Eye On Cursor - Version: 10](https://extensions.gnome.org/extension/7036/eye-on-cursor/) – Highlights the cursor for better visibility.  
+- [Hide Items - Version: 7](https://extensions.gnome.org/extension/6771/hide-items/) – Allows you to hide desktop items for a cleaner look.  
 
 
 
