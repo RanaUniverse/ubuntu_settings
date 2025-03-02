@@ -27,7 +27,7 @@ By running this upper command i will get a zip file of the name of my desired fi
 
 
 
-## 🌟 Version 0: Simple & Minimal for Starting
+## 🌟 Version 1.0.0: Simple & Minimal for Starting
 
 This version focuses on **a clean and simple interface** with most essential extensions:  
 
@@ -41,7 +41,7 @@ This version focuses on **a clean and simple interface** with most essential ext
 
 
 
-## 🚀 Version 1: Enhanced Experience  
+## 🚀 Version 1.1.0: Enhanced Experience  
 
 This version i will make for support on **Ubuntu 24.04 LTS** with constantly improving New things.
 
@@ -49,9 +49,16 @@ This version i will make for support on **Ubuntu 24.04 LTS** with constantly imp
 ### 🔹 New Additions:  
 - [Eye On Cursor - Version: 99](https://extensions.gnome.org/extension/7036/eye-on-cursor/) – Highlights the cursor for better visibility.  
 - [Hide Items - Version: 99](https://extensions.gnome.org/extension/6771/hide-items/) – Allows you to hide desktop items for a cleaner look.  
+
+
+
+## 🍌 Version: Future: Not Decided Till Now.
+
+- I will add a keyboard key pressing sound maybe.
+
 - **Keyboard Sound Effect (Bucklespring Package)** – Adds a mechanical keypress sound effect for select apps.  
 
-
+- I have not decide how and what i will do in future.
 
 
 
