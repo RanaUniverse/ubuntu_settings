@@ -152,7 +152,7 @@ sleep-inactive-battery-timeout=3600
 [org/gnome/shell]
 app-picker-layout=[{'b9e8e75c-81af-452b-9c35-1c6b494b82d8': <{'position': <0>}>, 'snap-store_snap-store.desktop': <{'position': <1>}>, 'com.mattjakeman.ExtensionManager.desktop': <{'position': <2>}>, 'firefox_firefox.desktop': <{'position': <3>}>, 'com.obsproject.Studio.desktop': <{'position': <4>}>, 'org.gnome.TextEditor.desktop': <{'position': <5>}>, 'vlc.desktop': <{'position': <6>}>}]
 disabled-extensions=['ubuntu-dock@ubuntu.com']
-enabled-extensions=['ding@rastersoft.com', 'system-monitor@gnome-shell-extensions.gcampax.github.com', 'dash-to-panel@jderose9.github.com', 'clipboard-indicator@tudmotu.com', 'notification-banner-reloaded@marcinjakubowski.github.com', 'panelnote@gittymac.github.io']
+enabled-extensions=['ding@rastersoft.com', 'system-monitor@gnome-shell-extensions.gcampax.github.com', 'dash-to-panel@jderose9.github.com', 'clipboard-indicator@tudmotu.com', 'notification-banner-reloaded@marcinjakubowski.github.com', 'panelnote@gittymac.github.io', 'eye-on-cursor@djinnalexio.github.io', 'HideItems@fablevi.github.io']
 favorite-apps=['org.gnome.Nautilus.desktop', 'org.gnome.Terminal.desktop']
 welcome-dialog-last-shown-version='46.0'
 
