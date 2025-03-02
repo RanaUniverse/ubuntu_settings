@@ -156,6 +156,12 @@ enabled-extensions=['ding@rastersoft.com', 'system-monitor@gnome-shell-extension
 favorite-apps=['org.gnome.Nautilus.desktop', 'org.gnome.Terminal.desktop']
 welcome-dialog-last-shown-version='46.0'
 
+[org/gnome/shell/extensions/HideItems]
+allindicator=['System stats', 'Gjs_ubuntu-appindicators_ubuntu_com_indicatorStatusIcon_IndicatorStatusIcon', 'update-notifier', 'update-notifier', 'Layout Indicator (Tiling Assistant)', 'Panel Note', 'Stop Screencast', 'ClipboardIndicator', 'Stop Screen Sharing', 'Dwell Click', 'Accessibility', 'Keyboard']
+hideiconstate='1'
+nothiddenindicator=['Gjs_runcat_kolesnikov_se_indicator_RunCatIndicator', 'Looking Glass Button Indicator', 'Stop Screencast', 'Stop Screen Sharing', 'System stats', 'Panel Note']
+topbarupdater='1'
+
 [org/gnome/shell/extensions/clipboard-indicator]
 cache-only-favorites=true
 cache-size=256
