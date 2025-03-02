@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Cambalache 0.16.0 -->
+<interface>
+  <!-- interface-name adw.ui -->
+  <requires lib="gtk" version="4.0"/>
+  <requires lib="libadwaita" version="1.4"/>
+  <object class="AdwPreferencesPage" id="settings_page">
+    <property name="valign">start</property>
+    <child>
+      <object class="AdwPreferencesGroup">
+        <property name="description">Configure the settings of the extension</property>
+        <property name="title">Configuration</property>
+        <child>
+          <object class="AdwComboRow" id="state">
+            <property name="model">
+              <object class="GtkStringList">
+                <items>
+                  <item>Unsave</item>
+                  <item>Save</item>
+                </items>
+              </object>
+            </property>
+            <property name="subtitle">Save the current state of the button</property>
+            <property name="title">Save state</property>
+          </object>
+        </child>
+        <child>
+          <object class="AdwComboRow" id="defualtvisibility">
+            <property name="model">
+              <object class="GtkStringList">
+                <items>
+                  <item>Visibile</item>
+                  <item>Hidden</item>
+                </items>
+              </object>
+            </property>
+            <property name="subtitle">If state is unsaved, then this will be the default visibility on start</property>
+            <property name="title">Set default visibility on start</property>
+          </object>
+        </child>
+      </object>
+    </child>
+    <child>
+      <object class="AdwPreferencesGroup" id="visiblityIcons">
+        <property name="description">Configure the visibility of the icons in the right side of the top bar</property>
+        <property name="title">EXPERIMENTAL!!!</property>
+      </object>
+    </child>
+     <child>
+      <object class="AdwPreferencesGroup" id="extraData">
+        <property name="description">Delete old indicator data from local files. This could be improve efficiency!</property>
+        <property name="title">EXPERIMENTAL!!! On clikced instantly delete data. Don't ask to your approval!</property>
+      </object>
+    </child>
+  </object>
+</interface>
