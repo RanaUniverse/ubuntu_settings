@@ -234,6 +234,25 @@ check-x11wayland=true
 icon-size='standard'
 show-home=false
 
+[org/gnome/shell/extensions/eye-on-cursor]
+eye-blink-interval=5.0000000000000036
+eye-blink-mode='synced'
+eye-color-iris='#00ff00'
+eye-color-iris-enabled=true
+eye-count=2
+eye-index=1
+eye-line-mode=false
+eye-line-width=20
+eye-position='center'
+eye-reactive=true
+eye-shape='natural'
+eye-width=60
+tracker-color-default='#00ff00'
+tracker-keybinding=['<Super>c']
+tracker-opacity=80
+tracker-refresh-rate=60
+tracker-size=128
+
 [org/gnome/shell/extensions/notification-banner-reloaded]
 always-minimized=1
 anchor-horizontal=1
