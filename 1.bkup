@@ -24,11 +24,11 @@ translate=false
 
 [org/gnome/desktop/background]
 color-shading-type='solid'
-picture-options='zoom'
+picture-options='scaled'
 picture-uri='file:///home/rana-universe/.local/share/backgrounds/white.png'
 picture-uri-dark='file:///home/rana-universe/.local/share/backgrounds/black.png'
-primary-color='#000000000000'
-secondary-color='#000000000000'
+primary-color='#000000'
+secondary-color='#000000'
 
 [org/gnome/desktop/input-sources]
 mru-sources=@a(ss) []
