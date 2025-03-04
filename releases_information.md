@@ -52,6 +52,12 @@ This version i will make for support on **Ubuntu 24.04 LTS** with constantly imp
 
 
 
+## Version 1.2.0: From Now username related problem will solve
+
+From This here will not any problem, it means any username of ubuntu will run it and apply the settings without any error.
+
+
+
 ## 🍌 Version: Future: Not Decided Till Now.
 
 - I will add a keyboard key pressing sound maybe.
