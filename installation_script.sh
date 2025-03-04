@@ -63,7 +63,14 @@ echo "Please Wait Some Time to Complete all the steps."
 
 ./zzz_extra_need/terminal_alias.sh
 
-dconf load / < 1.bkup
+
+# Preventing username related issue by making new 2.bkup file
+
+./change_username_in_dconf_file.sh
+
+
+
+dconf load / < 2.bkup
 
 ./zzz_extra_need/progress_line_animation.sh
 
